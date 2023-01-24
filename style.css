@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#parent{
+    width: 100%;
+    height: 100%;
+}
+#main{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+}
+#main h2{
+    position: absolute;
+    left: 41%;
+    top: 5%;
+    font-family: ogg;
+    font-size: 38px;
+    color: white;
+    font-weight: lighter;
+}
+#main h4{
+    position: absolute;
+    left: 43%;
+    top: 80px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    font-weight: lighter;
+}
+#icon{
+    width: 4%;
+    height: 7%;
+    position: absolute;
+    top: 21%;
+    left: 46%;
+}
+i{
+    font-size: 40px;
+    color: white;
+    font-weight: lighter;
+}
+#childdiv{
+    width: 96%;
+    height: 55%;
+    background-color: white;
+    position: absolute;
+    top: 35%;
+    left: 2%;
+}
+#text{
+    width: 25%;
+    height: 30%;
+    position: absolute;
+    top: 33%;
+    left: 20%;
+}
+#text p{
+    font-family: ogg;
+    font-size: 30px;
+    font-weight: lighter;
+}
+#image{
+    width: 34%;
+    height: 100%;
+    position: absolute;
+    left: 66%;
+   
+    background-image: url("https://cdn.mos.cms.futurecdn.net/kXUihcLa33aC96RgbUpX6a.png");
+    background-size: cover;
+    background-position: center;
+
+}
+#main2{
+    width: 100%;
+    height: 100%;
+    background-color:black;
+}
+#main2 h2{
+    color: white;
+    font-family: ogg;
+    font-size: 50px;
+    font-weight: 500;
+    margin-left: 35%;
+}
+#bio{
+    width: 30%;
+    height: 45%;
+    position: absolute;
+    left: 35%;
+    margin-top:20px;
+}
+#bio p{
+    font-family: ogg;
+    font-size: 18px;
+    color: white;
+    font-weight: 200;
+}
+#line{
+    width: 40%;
+    height: 1px;
+    background-color: white;
+    margin-top: 33%;
+    margin-left: 30%;
+    text-shadow: 0pt;
+}
+#text2{
+    margin-top: 15px;
+    margin-left: 12%;
+}
+#text2 h2{
+    font-size: 17px;
+
+}
+#text2 i{
+    font-size: 20px;
+    
+}
+a{
+    
+    font-size: 19px;
+    font-weight: 200;
+    color: rgb(40, 144, 179);
+    
+}
+    
